@@ -30,7 +30,12 @@ The full set of files used can be found within this GIT repository.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found within the analysis.
+Q1: Is a big buget movie indicative of a well-rated movie?
+A1: There is no evidence that big budget movies drive higher voter ratings.
+Q2: Will a big buget movie indicate a profitable movie?
+A2: There is some evidence that bigger budget movies drive higher profits.
+Q3: Do movies that are better reviewed, ultimately generate more profit?
+A3: There is limited evidence that movies that are better rated, drive higher profits.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
